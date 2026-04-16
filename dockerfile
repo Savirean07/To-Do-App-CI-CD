@@ -10,4 +10,6 @@ COPY . /usr/share/nginx/html
 # Expose port 80 for HTTP
 EXPOSE 80
 
+# This is trial of changes i just want to check if it is working or not.
+
 # Start Nginx (default CMD is fine)
